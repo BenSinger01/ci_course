@@ -15,7 +15,7 @@ def greet(name=""):
     str
         The greeting
     """
-    x = "Hello %" % (name)
+    x = "Hello {}".format(name)
     return x
 
 
