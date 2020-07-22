@@ -1,5 +1,10 @@
 ![Windows macOS and Linux](https://github.com/BenSinger01/ci_course/workflows/Windows%20macOS%20and%20Linux/badge.svg)
 
+
+[![codecov](https://codecov.io/gh/BenSinger01/ci_course/branch/master/graph/badge.svg)](https://codecov.io/gh/BenSinger01/ci_course)
+
+
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
